@@ -83,7 +83,6 @@ public class GT4500 implements SpaceShip {
         }
         //TODO implement feature
         else{
-          boolean rand=false;
           firingSuccess=false;
         }
         break;
